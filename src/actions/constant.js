@@ -1,0 +1,6 @@
+export const addConstants = {
+    Add_REQUEST: "ADD_REQUEST",
+    DELETE_REQUEST: "DELETE_REQUEST",
+    UPDATE_REQUEST: "UPDATE_REQUEST",
+    ADD_FAILURE: "ADD_FAILURE"
+}
